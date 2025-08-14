@@ -4,7 +4,7 @@ title: I'm Alice Li
 hide: true
 ---
 
-Hi! My name is Alice Li
+Hi! My name is Alice Li 🙈
 
 ### Development Environment
 
